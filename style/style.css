@@ -1,0 +1,13 @@
+.users-list {
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.card {
+  width: 30%;
+  min-width: 300px;
+  margin-top: 15px;
+}
